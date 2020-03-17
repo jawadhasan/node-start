@@ -1,0 +1,19 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "Node POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadhasan/node-start.git"
+  },
+  "author": "jawadhasan80@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadhasan/node-start/issues"
+  },
+  "homepage": "https://github.com/jawadhasan/node-start#readme"
+}
